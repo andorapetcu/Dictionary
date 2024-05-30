@@ -1,0 +1,23 @@
+﻿<Window x:Class="DictionaryApp.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="JocAsociere" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Image x:Name="imgWord" HorizontalAlignment="Center" VerticalAlignment="Center" Width="180" Margin="20" Visibility="Hidden"/>
+
+        <TextBox x:Name="txtUserInput" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" Width="200"/>
+
+        <TextBlock x:Name="txtDescription" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" Margin="20" Visibility="Hidden"/>
+
+        <ListBox x:Name="listBoxMatchedWords" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,40,0,0" Width="200" Height="80" SelectionChanged="listBoxMatchedWords_SelectionChanged"/>
+
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,20,0,0">
+            <Button x:Name="btnPrevious" Content="Inapoi" Click="btnPrevious_Click"/>
+            <Button x:Name="btnNext" Content="Next" Click="btnNext_Click"/>
+            <Button x:Name="btnFinish" Content="Termina" Click="btnFinish_Click"/>
+        </StackPanel>
+
+        <Button x:Name="btnPlayAgain" Content="Joaca din nou" Click="btnPlayAgain_Click" Visibility="Collapsed"/>
+    </Grid>
+</Window>

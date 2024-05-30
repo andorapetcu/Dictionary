@@ -1,0 +1,7 @@
+Natura|soare|Este steaua centrală a sistemului nostru solar și principala sursă de lumină și căldură pentru Pământ.|"C:\date\FACULTATE\Anul 2 Sem 2\MVP\Tema1_Dictionar_PetcuAndora\poze\soare.jpg"
+Tari|Spania|Este o țară din sud-vestul Europei. Teritoriul său continental european este situat în Peninsula Iberică.|"C:\date\FACULTATE\Anul 2 Sem 2\MVP\Tema1_Dictionar_PetcuAndora\poze\Spania.jpg"
+Trasaturi|inteligenta|Capacitatea de a gândi logic, de a înțelege, învăța, soluționa probleme și adapta la mediu|"C:\date\FACULTATE\Anul 2 Sem 2\MVP\Tema1_Dictionar_PetcuAndora\poze\inteligenta.jpg"
+actiuni|alergat|Este o metodă de locomoție terestră ce permite oamenilor și altor animale să se deplaseze rapid pe jos.|"C:\date\FACULTATE\Anul 2 Sem 2\MVP\Tema1_Dictionar_PetcuAndora\poze\alergat.jpg"
+Obiecte|steag|Este o bucată de material textil colorată mono- sau multi-cromatic, având un anumit model, reprezentand o tara.|"C:\date\FACULTATE\Anul 2 Sem 2\MVP\Tema1_Dictionar_PetcuAndora\poze\steag.jpg"
+Tari|gdjnad|Este o țară din sud-vestul Europei. Teritoriul său continental european este situat în Peninsula Iberică.|"C:\date\FACULTATE\Anul 2 Sem 2\MVP\Tema1_Dictionar_PetcuAndora\poze\Spania.jpg"
+
